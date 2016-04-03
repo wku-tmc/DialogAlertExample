@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DialogAlert Example</string>
+    <string name="action_settings">Settings</string>
+    <string name="button_text">Show Dialog</string>
+    <string name="title">title</string>
+    <string name="message">message</string>
+    <string name="confirm">OK</string>
+    <string name="cancel">Cancel</string>
+</resources>
