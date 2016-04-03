@@ -30,13 +30,13 @@ public class MainActivity extends AppCompatActivity {
                 builder.setPositiveButton(R.string.confirm, new DialogInterface.OnClickListener() {
                     @Override
                     public void onClick(DialogInterface dialog, int which) {
-
+                        //code for follow-up action when user tap ok
                     }
                 });
                 builder.setNegativeButton(R.string.cancel, new DialogInterface.OnClickListener() {
                     @Override
                     public void onClick(DialogInterface dialog, int which) {
-
+                        //code for follow-up action (if applicable) when user tap cancel
                     }
                 });
                 builder.show();
